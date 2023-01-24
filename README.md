@@ -29,8 +29,6 @@
 
 ## Tools
 
-<center>
-
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=47C5FB)
 ![Mantis](https://img.shields.io/badge/-Mantis-090909?style=for-the-badge&logo=OpenBugBounty&logoColor=00D1B2)
 ![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=Confluence&logoColor=47C5FB)
@@ -58,8 +56,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 
-</center>
-
 ## Experience
 
 ## Education
@@ -69,8 +65,6 @@
 ## I’m currently learning:
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=ABB2B9)
-
-<center>
 
 ## Languages
 
@@ -87,5 +81,3 @@ Tel: +38 (0) 63 624 18 71
 pavel.minenok@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/pavel-minenok)
-
-</center>
