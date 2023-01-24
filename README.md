@@ -60,7 +60,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 
-Experience
+## Experience
 
 Education
 
@@ -68,6 +68,14 @@ Additional education
 
 I’m currently learning
 
-Languages and Tools
+Languages
 
-Follow Me
+## Contacts
+
+Kyiv, Ukraine
+
+Tel: +38 (0) 63 624 18 71
+
+[![GmailAdress](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=EA4335)](pavel.minenok@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/pavel-minenok)
