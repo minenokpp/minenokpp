@@ -58,13 +58,85 @@
 
 ## Experience
 
+<b>
+
+- Avionics engineer (navigation and radio-electronic equipment) of aircrafts base maintenance
+
+- Aircrafts maintenance planning department engineer
+
+- Metrologist-engineer (combined with above mentioned position)
+
+- Aircrafts maintenance control center engineer</b>
+
+07/2011 – 09/2013 (Khors Air LLC, Kyiv)
+
+<b>
+
+- Engineer of avionics equipment of procurement division
+  (navigation and radio-electronic equipment) of tech. dept.</b>
+
+09/2013 – 06/2016 (PJSC AC Ukrainian helicopters, Kyiv)
+
+<b>
+
+- Head of the supply, international procurement, foreign economic activity and logistics department </b>
+
+10/2017 – 04/2022, (MEGAPOLIS Media holding, Kyiv)
+
+<b>
+
+- QA intern practical course – «QA Manual» </b>
+
+(Project – «Books reading application») 05/2022 – 08/2022, 3 mos (GoIT, Kyiv)
+
+<b>
+
+- QA intern practical course – «The Fundamentals of Software Testing» </b>
+
+(Project – «Pets products web store») 09/2022 – 10/2022, 2 mos (QATestLab Training Center, Kyiv)
+
+<b>
+
+- Quality Engineer </b>
+
+(Project - web/mob/desktop apps, websites: SaaS, E-com) 08/2022 – present, 6 mos + (uTest, Kyiv, remote)
+
 ## Education
 
+<b>
+ 
+ - National Aviation University: direction – «Avionics», specialty –
+ «Systems and complexes of electronic, flight and navigation
+ equipment»</b>
+
+09/2007 – 03/2013 (Kyiv)
+
 ## Additional education
+
+- Certification course – «Quality management systems internal
+  auditor» based on ISO 9001:2008 and ISO 19011:2011 standards
+  03/2015 (Bureau Veritas Group Ukraine, Kyiv)
+- Practical course – «Customs broker and declarant»
+  07/2021 (All-Ukrainian Association "Union of Enterprises of Customs
+  Brokers and Owners of Licensed Customs Warehouses", Kyiv)
+- QA practical course – «QA Manual»
+  05/2022 - 08/2022 (GoIT, Kyiv)
+- QA practical course – «The Fundamentals of Software Testing»
+  09/2022 - 10/2022 (QATestLab Training Center, Kyiv)
 
 ## I’m currently learning:
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=ABB2B9)
+
+## Personal skills
+
+<li>Responsible</li>
+<li>Result oriented</li>
+<li>Sociable</li>
+<li>Quick learner</li>
+<li>Multitasker</li>
+<li>Curious</li>
+<li>Team management skills</li>
 
 ## Languages
 
@@ -81,3 +153,5 @@ Tel: +38 (0) 63 624 18 71
 pavel.minenok@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/pavel-minenok)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minenokpp&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
