@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/minenokpp/minenokpp/blob/master/assets/matrix_intro_cutted.jpg)](https://www.linkedin.com/in/pavel-minenok)
 
 About me
 
