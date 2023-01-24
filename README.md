@@ -1,6 +1,10 @@
 [![Header](https://github.com/minenokpp/minenokpp/blob/master/assets/matrix_intro_cutted.jpg)](https://www.linkedin.com/in/pavel-minenok)
 
+<center>
+
 #### I am a software development engineer in test (SDET) with strong attention to details. I have good theoretical knowledges and practical experience in testing. My objective is to excel in the quality improvement environment bringing the value to the company I am working at!
+
+</center>
 
 ## Skills and knowledges
 
@@ -24,6 +28,8 @@
 - Experience in REST API testing (Postman)
 
 ## Tools
+
+<center>
 
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=47C5FB)
 ![Mantis](https://img.shields.io/badge/-Mantis-090909?style=for-the-badge&logo=OpenBugBounty&logoColor=00D1B2)
@@ -52,6 +58,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 
+</center>
+
 ## Experience
 
 ## Education
@@ -62,13 +70,13 @@
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=ABB2B9)
 
+<center>
+
 ## Languages
 
 English – intermediate (B1)
 
 Ukrainian - native
-
-russian – fluent
 
 ## Contacts
 
@@ -79,3 +87,5 @@ Tel: +38 (0) 63 624 18 71
 pavel.minenok@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/pavel-minenok)
+
+</center>
