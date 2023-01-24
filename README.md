@@ -106,8 +106,8 @@
 <b>
  
  - National Aviation University: direction – «Avionics», specialty –
- «Systems and complexes of electronic, flight and navigation
- equipment»</b>
+  «Systems and complexes of electronic, flight and navigation
+  equipment»</b>
 
 09/2007 – 03/2013 (Kyiv)
 
@@ -115,13 +115,24 @@
 
 - Certification course – «Quality management systems internal
   auditor» based on ISO 9001:2008 and ISO 19011:2011 standards
+
   03/2015 (Bureau Veritas Group Ukraine, Kyiv)
+
 - Practical course – «Customs broker and declarant»
+
   07/2021 (All-Ukrainian Association "Union of Enterprises of Customs
   Brokers and Owners of Licensed Customs Warehouses", Kyiv)
-- QA practical course – «QA Manual»
+
+ <b>
+
+- QA practical course – «QA Manual»</b>
+
   05/2022 - 08/2022 (GoIT, Kyiv)
-- QA practical course – «The Fundamentals of Software Testing»
+
+ <b>
+
+- QA practical course – «The Fundamentals of Software Testing»</b>
+
   09/2022 - 10/2022 (QATestLab Training Center, Kyiv)
 
 ## I’m currently learning:
