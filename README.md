@@ -62,20 +62,28 @@
 
 ## Experience
 
-Education
+## Education
 
-Additional education
+## Additional education
 
-I’m currently learning
+## I’m currently learning:
 
-Languages
+![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=ABB2B9)
+
+## Languages
+
+English – intermediate (B1)
+
+Ukrainian - native
+
+russian – fluent
 
 ## Contacts
 
-Kyiv, Ukraine
+Location: Kyiv, Ukraine
 
 Tel: +38 (0) 63 624 18 71
 
-[![GmailAdress](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=EA4335)](pavel.minenok@gmail.com)
+pavel.minenok@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/pavel-minenok)
