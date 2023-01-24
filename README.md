@@ -61,45 +61,39 @@
 <b>
 
 - Avionics engineer (navigation and radio-electronic equipment) of aircrafts base maintenance
-
 - Aircrafts maintenance planning department engineer
-
 - Metrologist-engineer (combined with above mentioned position)
-
 - Aircrafts maintenance control center engineer</b>
-
-07/2011 – 09/2013 (Khors Air LLC, Kyiv)
+  07/2011 – 09/2013 (Khors Air LLC, Kyiv)
 
 <b>
 
 - Engineer of avionics equipment of procurement division
   (navigation and radio-electronic equipment) of tech. dept.</b>
-
-09/2013 – 06/2016 (PJSC AC Ukrainian helicopters, Kyiv)
+  09/2013 – 06/2016 (PJSC AC Ukrainian helicopters, Kyiv)
 
 <b>
 
 - Head of the supply, international procurement, foreign economic activity and logistics department </b>
-
-10/2017 – 04/2022, (MEGAPOLIS Media holding, Kyiv)
+  10/2017 – 04/2022, (MEGAPOLIS Media holding, Kyiv)
 
 <b>
 
 - QA intern practical course – «QA Manual» </b>
-
-(Project – «Books reading application») 05/2022 – 08/2022, 3 mos (GoIT, Kyiv)
+  (Project – «Books reading application»)
+  05/2022 – 08/2022, 3 mos (GoIT, Kyiv)
 
 <b>
 
 - QA intern practical course – «The Fundamentals of Software Testing» </b>
-
-(Project – «Pets products web store») 09/2022 – 10/2022, 2 mos (QATestLab Training Center, Kyiv)
+  (Project – «Pets products web store»)
+  09/2022 – 10/2022, 2 mos (QATestLab Training Center, Kyiv)
 
 <b>
 
 - Quality Engineer </b>
-
-(Project - web/mob/desktop apps, websites: SaaS, E-com) 08/2022 – present, 6 mos + (uTest, Kyiv, remote)
+  (Project - web/mob/desktop apps, websites: SaaS, E-com)
+  08/2022 – present, 6 mos + (uTest, Kyiv, remote)
 
 ## Education
 
