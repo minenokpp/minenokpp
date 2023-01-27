@@ -137,7 +137,7 @@
 
 ## I’m currently learning:
 
-![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=ABB2B9)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
 
 ## Personal skills
 
@@ -158,8 +158,6 @@ Ukrainian - native
 ## Contacts
 
 Location: Kyiv, Ukraine
-
-Tel: +38 (0) 63 624 18 71
 
 pavel.minenok@gmail.com
 
